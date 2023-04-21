@@ -1,0 +1,102 @@
+/* *{
+    border: 2px;
+    border-color: red;
+    border-width: 2px;
+} */
+
+h1{
+    color: dodgerblue;
+    background-color: white;
+    text-align: center;
+    margin-top: 25%;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    color: white;
+
+    /* .container p{
+
+    } */
+}
+
+.bigger-main4{
+    background-color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+.bigger-main3{
+    background-color: black;
+    font-size: 55px;
+    text-align: center;
+}
+
+.bigger-main2{
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+.bigger-main1{
+    background-color: black;
+    font-size: 45px;
+    text-align: center;
+}
+
+.bigger-main0{
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.main{
+    background-color: black;
+    font-size: 35px;
+    text-align: center;
+}
+
+.smaller-main0{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.smaller-main1{
+    background-color: black;
+    color: deepskyblue;
+    text-align: center;
+    font-size: 25px;
+}
+
+.smaller-main2{
+    background-color: black;
+    color: fuchsia;
+    text-align: center;
+    font-size: 20px;
+}
+
+.smaller-main3{
+    background-color: black;
+    color: fuchsia;
+    text-align: center;
+    font-size: 15px;
+}
+
+.smaller-main4{
+    background-color: black;
+    color: fuchsia;
+    text-align: center;
+    font-size: 10px;
+}
+
+/* .container{
+    width: 70%;
+    height: 700px;
+    border: 2px solid black;
+    margin: 0px auto;
+} */
