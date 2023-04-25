@@ -1,0 +1,25 @@
+* {
+    /* font-family: 'Bruno Ace SC', cursive; */
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; */
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    background-color: azure;
+    color: blue;
+    height: auto;
+    padding: 50px;
+    font-size: 100px;
+    font-weight: 400;
+}
