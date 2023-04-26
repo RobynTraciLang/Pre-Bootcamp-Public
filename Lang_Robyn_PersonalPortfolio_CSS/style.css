@@ -1,0 +1,92 @@
+* {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: whitesmoke;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: whitesmoke;
+}
+
+label {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#robyns-contact-info {
+    background-color: deepskyblue;
+}
+
+p#introduction-and-greeting {
+    font-size: medium;
+}
+
+ul {
+    color: whitesmoke;
+    align-content: normal;
+}
+
+label {
+    position: unset;
+}
+
+#programming-languages {
+    width: fit-content;
+    width: 20%;
+    margin-left: 40%;
+    border: solid;
+    color: whitesmoke;
+}
+
+#robyn-snapchat-green-dress {
+    width: 20%;
+    height: 20%;
+}
+
+#technologies {
+    color:whitesmoke;
+    width: 30%;
+    margin-left: 35%;
+    border: solid;
+}
+
+#table-border {
+    border: solid;
+    margin-left: 10%;
+    width: 80%;
+}
+
+#first-image {
+    width: 25%;
+    height: 25%;
+}
+
+#message-label {
+    display: flex;
+    margin-left: 41%;
+}
+
+span {
+    position: relative;
+    left: -7%;
+}
+
+ul li {
+    list-style-type: none;
+}
